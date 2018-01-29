@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset='utf-8'>
+	<meta name="viewport" content="width=device-width">
+	<title>Presidential Review</title>
+	<link rel="stylesheet" href="pres_review_style.css">
+	<style>
+	  #hero{
+		background-image: url("rushmore.jpeg");
+	    background-size: cover;
+		}
+	</style>
+</head>
+
+<body>
+	
+	<div id="hero">
+	
+	</div>
+
+	<section id="geninfo">
+		<div class="container">
+			<h3 class="page_title">Inherent Powers of the President</h3>
+				<p>The president has certain inherent powers that are not expressly listed in the Constitution. These powers are inferred from the Constitution. The presidents assume these powers by acting with them, and leaving it up to the courts to deem it constitutional by inaction or unconstitutional by overturning it.</p>
+		</div>
+	</section>
+<hr />
+<!-- FLEXBOX 3 BOXES ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+<section class="darker">
+<div class="container">
+	<div class="flex-container">
+        <div class="box one">
+		<h3>The Cabinet</h3>
+		<p> The president surrounds himself with executive heads of departments and other key advisors, whom the president has to inform and aid him in decisionmaking. There are three major styles of presidential staffing: competitive, where power is overlapping, and competing opinions, so that the president may hear all sides with integrity and then make decisions. Another style is a hierarchical model with clear lines of authority. The final model is a collegial style that allows all top level staffers access to the president in an immersive, group style approach.</p>
+		</div>
+        <div class="box two">
+		<h3>The President's Ideology</h3>
+		<p>The political values of presidents often sways their methodology, especially in strength of government and how to use government power. General political policies and ideologies are displayed throughout a campaign and then the president wants to set legislation early on to affirm his opinions. The president’s ability to lobby by using members of his party in Congress. The president’s legislative liaison staff aids pushing through all of his legislation. The president also functions as a party leader, and in recent times more focused on his own party than bridging the gaps of two parties. 
+</p>
+		</div>
+        <div class="box three">
+		<h3>The Power of Persuasion</h3>
+		<p>The presidential power is the power to persuade. The president is not just a list of powers, but an individual with characteristics and flaws. Their character, confidence, intelligence, etc. all play a factor. Ability to bargain, deal with adversaries, and choosing priorities separate presidents who are mediocre from the legends. Presidents gauge their success with the people based upon their public approval ratings and can use the public response to override the opinions of their cabinet and advisors. 
+</p>
+		</div>
+    </div>
+</div>
+</section>
+
+	<footer>
+		<p>BPA Cares, Copyright &copy; 2018</p>
+	</footer>
+</body>
+
+</html>
